@@ -1,0 +1,113 @@
+
+body {
+    background-image: url("../images/backgroundImage.jpg");
+}
+
+.h {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+    color: white;
+    
+}
+
+.homePageLightReferences{
+    color: rgb(39, 134, 189);
+    font-weight: bolder;
+    font-size: 30;
+}
+img {
+    max-width: 500;
+}
+
+.resumeFont {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: white solid;
+    background-color:rgb(70, 77, 83) ;
+    padding: 5px;
+    
+}
+.resumeFont2 {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: white solid;
+    background-color:rgb(70, 77, 83) ;
+    padding:10px;
+}
+.resumeFont3 {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 10px;
+    
+}
+.resumeAboutMe {
+    color: white;
+    font-size: small;
+    border: white solid;
+    padding: 5px;
+    background-color:rgb(70, 77, 83) ;
+}
+
+.resumeHeading {
+    font-style: italic;
+    font-style: bolder;
+    font-size: 22px;
+    text-decoration: underline;
+    
+}
+.resumeContactMe {
+    color: white;
+    font-size: medium;
+    border: white solid;
+    padding: 5px;
+    background-color:rgb(70, 77, 83) ;
+    width: fit-content;
+    
+    
+}
+.resumeContactMeInfo {
+    color: white;
+    font-size: small;
+    border: white solid;
+    padding: 5px;
+    background-color:rgb(70, 77, 83) ;
+    border-top: none;
+}
+
+.aboutMe {
+
+    color: white;
+    border: white solid;
+    padding: 2px;
+
+}
+.aboutMeBackground {
+    background-color: rgb(6, 37, 65);
+}
+
+.line {
+    color: white;
+}
+
+.headingAboutMe {
+    color: rgb(6, 37, 65);
+    background-color: white;
+    border: rgb(6, 37, 65) solid;
+    border-width: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.backToTop {
+    color: white;
+    font-size: medium;
+    border: white solid;
+ 
+    background-color:rgb(70, 77, 83) ;
+    
+}
+
